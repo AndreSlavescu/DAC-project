@@ -1,5 +1,5 @@
-# Audio DAC with Arduino
-Using a MCP4725 12 bit dac to convert PWM or digital audio data to analog data
+# Audio DAC with Arduino and ESP32
+Using a MCP4725 12 bit dac to convert PWM or digital audio data to analog data with the aid of an amplifier circuit.
 
 <img src="Images/DAC.PNG" width=500>
 
